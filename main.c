@@ -10,13 +10,13 @@ int population;
 
 printf("Municipal Financial Management System\n\n");
 
-printf("Enter Municipality Name: ");
+printf("Enter Municipality Name: \n");
 scanf("%49s", municipality);
 
-printf("Enter Mayor: ");
+printf("Enter Mayor: \n");
 scanf("%49s", mayor);
 
-printf("Enter Population: ");
+printf("Enter Population: \n");
 scanf("%d", &population);
 
 printf("\n---------------------------------\n");
